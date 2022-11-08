@@ -5,6 +5,7 @@
 - 👯 I am looking to collaborate on huge IT company
 - 💬 Ask me about loops
 - ⚡ Fun fact from google: To find the temperature when both are equal, we use an old algebra trick and just set ºF = ºC and solve one of the equations. So the temperature when both the Celsius and Fahrenheit scales are the same is -40 degrees
+- 🌐 vladkalych.github.io
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_what.is.loveee_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vladyslav-kalych) 
